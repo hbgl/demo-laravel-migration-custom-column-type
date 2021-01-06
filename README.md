@@ -1,1 +1,1 @@
-See the accompanying blog post for more information about this repository: https://mehbgl.wordpress.com/2020/10/07/add-columns-with-raw-types-in-laravel-migrations/
+See the accompanying blog post for more information about this repository: https://hbgl.dev/add-columns-with-custom-types-in-laravel-migrations/
